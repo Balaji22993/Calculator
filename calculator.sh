@@ -1,1 +1,1 @@
-echo "Local Calculator force"
+echo "remote tesing"
