@@ -1,1 +1,1 @@
-echo "remote tesing"
+echo "local tesing force"
