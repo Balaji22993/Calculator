@@ -1,2 +1,1 @@
-echo "Calculator"
-echo "Local Calculator"
+echo "Local Calculator force"
